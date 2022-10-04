@@ -1,1 +1,2 @@
-# Homework Week 1
+# Full Stack Developer course
+## Homework Week 1
